@@ -9,3 +9,27 @@ git config --global user.email kunalgaikwad@gmail.com
 rm testing.py
    git status
    git restore testing.py
+   history
+  802  git status
+  803  git add .
+  804  git status
+  805  git commit -m "files added"
+  806  git status
+  807  git branch
+  808  git remote add origin https://github.com/kunalgaikwad28/git-github-workshop.git
+  809  git remote -v
+  810  git remote set-url origin  https://token github.com/kunalgaikwad28/git-github-workshop.git
+  811  git remote -v
+  812  git push origin master
+  813  git clone https://github.com/Shantanumajan6/docker-compose.git
+  814  git status
+  815  ls
+  816  rm docker-compose/
+  817  rm -rf docker-compose/
+  818  git status
+  819  history
+  820  git status
+  821  git add .
+  822  git commit -m "new added"
+  823  git push origin master
+  
