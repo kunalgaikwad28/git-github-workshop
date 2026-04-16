@@ -1,0 +1,11 @@
+git add
+  git add .
+ git sttaus
+git status
+git commit -m "python file"
+git config --global user.email kunalgaikwad@gmail.com
+ git config --global user.name Kunal
+  git commit -m "python file"
+rm testing.py
+   git status
+   git restore testing.py
